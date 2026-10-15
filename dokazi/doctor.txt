@@ -1,0 +1,43 @@
+[√] Flutter (Channel stable, 3.47.7, on Microsoft Windows [Version 10.0.26200.9457], locale hr-HR) [1.346ms]
+    • Flutter version 3.47.7 on channel stable at C:\Users\Antonija\Documents\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision abaf9c5237 (7 days ago), 2026-10-08 09:51:21 -0700
+    • Engine revision deb287481e
+    • Dart version 3.13.5
+    • DevTools version 2.60.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios,
+      cli-animations, enable-native-assets, enable-record-use, enable-swift-package-manager, omit-legacy-version-file,
+      enable-lldb-debugging, enable-uiscene-migration
+
+[√] Windows Version (Windows 11 or higher, 25H2, 2009) [3,1s]
+
+[!] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [1.165ms]
+    • Android SDK at C:\Users\Antonija\AppData\Local\Android\sdk
+    • Emulator version 37.2.12.0 (build_id 16428233) (CL:N/A)
+    X cmdline-tools component is missing.
+      Try installing or updating Android Studio.
+      Alternatively, download the tools from https://developer.android.com/studio#command-line-tools-only and make sure to set the
+      ANDROID_HOME environment variable.
+      See https://developer.android.com/studio/command-line for more details.
+    X Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/to/windows-android-setup for more details.
+
+[√] Chrome - develop for the web [779ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[√] Visual Studio - develop Windows apps (Visual Studio Build Tools 2026 18.2.0) [777ms]
+    • Visual Studio at C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools
+    • Visual Studio Build Tools 2026 version 18.2.11408.102
+    • Windows 10 SDK version 10.0.26100.0
+
+[√] Connected device (4 available) [500ms]
+    • sdk gphone64 x86 64 (mobile) • emulator-5554 • android-x64    • Android 17 (API 37) (emulator)
+    • Windows (desktop)            • windows       • windows-x64    • Microsoft Windows [Version 10.0.26200.9457]
+    • Chrome (web)                 • chrome        • web-javascript • Google Chrome 155.0.8059.40
+    • Edge (web)                   • edge          • web-javascript • Microsoft Edge 155.0.4283.45
+
+[√] Network resources [2,9s]
+    • All expected network resources are available.
+
+! Doctor found issues in 1 category.

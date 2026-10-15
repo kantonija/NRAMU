@@ -1,0 +1,5 @@
+fb70444 (HEAD -> vjezba-01, origin/vjezba-01) Osobni podaci i samostalne izmjene
+1a8a27f Prvi zaslon i Dart primjer
+bc4ba07 Dodana Provjera razumijevanja 2
+c832a43 Dodan prvi zadatak i  README.md file
+2972294 add provjera.dart file
