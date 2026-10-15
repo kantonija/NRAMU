@@ -1,7 +1,11 @@
+## Student: Antonija Kožul
+
 ## Verzije
  
 - Dart: 3.13.5
 - Flutter: 3.47.7
+
+OS: Windows, za pokretanje aplikacije korišten Android Studio.
 
 ## Provjera razumijevanja 1
  
